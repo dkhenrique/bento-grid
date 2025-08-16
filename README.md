@@ -30,8 +30,8 @@ Usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione aqui](#)
-- URL do site ao vivo: [Adicione aqui](#)
+- URL da solução: [Adicione aqui](https://github.com/dkhenrique/bento-grid/)
+- URL do site ao vivo: [Adicione aqui](https://dkhenrique.github.io/bento-grid/)
 
 ## Processo
 
